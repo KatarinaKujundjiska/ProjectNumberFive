@@ -1,11 +1,14 @@
 public class HelloWorld {
 
     public static void main(String[] args) {
-    System.out.println("Hello, World !!!");
+        System.out.println("Hello, World !!!");
+
     }
 
     public static void sayHello(String name) { System.out.println("Hello, " + name); }
-    //TODO: Practice some more
+    //TODO: Prodolzetok od strana 29, Linting code
+
+
     {
         boolean flag = true;
         if (flag == true) {
@@ -17,8 +20,5 @@ public class HelloWorld {
         }
 
 
-    public static void sayGoodBye(String name)
-
-        System.out.println("Good bye,   + name);
     }
-}
+    }
